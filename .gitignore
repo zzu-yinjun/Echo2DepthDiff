@@ -1,0 +1,25 @@
+
+# ignore these folders
+/checkpoint
+/data
+/input
+/output
+/temp
+/wandb
+/venv
+/cache
+/audio_depth_checkpoint
+/spec_vae
+/unet_original
+/stable-diffusion-2
+**/.ipynb_checkpoints/
+.vscode/
+.idea
+
+# ignore these types
+*.pyc
+*.out
+*.log
+*.mexa64
+*.pdf
+*.tar
